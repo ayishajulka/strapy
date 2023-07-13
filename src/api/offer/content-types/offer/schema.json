@@ -1,0 +1,31 @@
+{
+  "kind": "collectionType",
+  "collectionName": "offers",
+  "info": {
+    "singularName": "offer",
+    "pluralName": "offers",
+    "displayName": "offer",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "holiday_sale": {
+      "type": "string"
+    },
+    "newsletters": {
+      "type": "string"
+    },
+    "Join_text": {
+      "type": "text"
+    },
+    "signup": {
+      "type": "string"
+    },
+    "imageUrl": {
+      "type": "text"
+    }
+  }
+}

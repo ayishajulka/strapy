@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "top_destination_footers",
+  "info": {
+    "singularName": "top-destination-footer",
+    "pluralName": "top-destination-footers",
+    "displayName": "Top Destination footer",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "place": {
+      "type": "string"
+    },
+    "active": {
+      "type": "boolean"
+    }
+  }
+}
